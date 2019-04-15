@@ -15,8 +15,7 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 
-    //test
-    //apa
+    //nyast 
     
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
