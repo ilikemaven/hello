@@ -18,6 +18,7 @@ public class Application {
     //Hej!
     //hej det här är oscar
     //Simon här
+    
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
