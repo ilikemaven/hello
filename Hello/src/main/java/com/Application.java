@@ -17,6 +17,7 @@ public class Application {
 
     //nyast
     //Ännu nyare
+    //rääää
     
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
