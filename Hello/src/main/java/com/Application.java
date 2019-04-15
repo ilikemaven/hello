@@ -16,6 +16,8 @@ public class Application {
     }
 
     //Hej!
+    //hej det här är oscar
+    
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
