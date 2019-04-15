@@ -18,6 +18,7 @@ public class Application {
     //nyast
     //Ännu nyare
     //rääää
+    //Simon
     
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
