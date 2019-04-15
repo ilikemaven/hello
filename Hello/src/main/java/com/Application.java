@@ -15,9 +15,7 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 
-    //Hej!
-    //hej det här är oscar
-    //Simon här
+    //test
     
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
